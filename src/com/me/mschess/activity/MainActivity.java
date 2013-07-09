@@ -1,4 +1,6 @@
-package com.example.mschess;
+package com.me.mschess.activity;
+
+import com.example.mschess.R;
 
 import android.os.Bundle;
 import android.app.Activity;
